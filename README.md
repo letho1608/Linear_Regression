@@ -11,9 +11,9 @@ This repository contains a Jupyter notebook demonstrating a simple linear regres
 
 To run the code, ensure you have Python installed along with the required libraries listed above. Open the Jupyter notebook `linear_regression.ipynb` and execute each cell sequentially.
 
-## Code Explanation
+## Predicting Weight from Height
 
-The notebook covers the following key aspects:
+The notebook focuses on using linear regression to predict weight based on height. It covers the following key aspects:
 
 ### Dataset Preparation
 
@@ -36,4 +36,4 @@ The notebook covers the following key aspects:
 
 ## Conclusion
 
-This example provides a basic understanding of linear regression and how it can be implemented in Python using common libraries. It serves as a starting point for learning more advanced regression techniques and machine learning concepts.
+This example provides a basic understanding of using linear regression to predict weight based on height and how it can be implemented in Python using common libraries. It serves as a starting point for learning more advanced regression techniques and machine learning concepts.
